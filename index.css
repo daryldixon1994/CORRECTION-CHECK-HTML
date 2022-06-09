@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    border: 5px black solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    /* line-height: 2px; */
+    /*display: hidden;*/
+}
+a {
+    color: orange;
+}
+footer > h4 {
+    color: purple;
+}
+a:focus {
+    color: black;
+}
+li {
+    display: inline;
+}
